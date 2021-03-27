@@ -1,0 +1,26 @@
+/* Extra Small Devices, Phones */
+@media (max-width: 480px) {
+
+}
+/* Small Devices, Tablets */
+@media (max-width: 767px) {
+  /*-- Middle secton-- */
+  .middle-bar { 
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 20px;
+  }
+  .middle-bar .feeds .cmt {
+    padding-left: 25px; 
+  }
+}
+
+/* Medium Devices, Desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Extra Large Desktops */
+@media (min-width: 1200px) {
+  }
+}
